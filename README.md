@@ -1,6 +1,6 @@
 # Python POS System (Point of Sale)
 
-A full-featured, multi-threaded desktop Point of Sale (POS) application engineered from scratch using Python. Designed for a local business ("Al-Tahtawy Butchery"), this system manages inventory, sales, expenses, and administrative tasks with a secure, user-friendly GUI.
+A full-featured, multi-threaded desktop Point of Sale (POS) application engineered from scratch using Python. Designed for a local business, this system manages inventory, sales, expenses, and administrative tasks with a secure, user-friendly GUI.
 
 ## 🌟 Key Features
 
