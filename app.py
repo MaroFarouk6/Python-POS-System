@@ -1443,10 +1443,11 @@ permited_id = cr.fetchone()[0]
 if sha256(device_id.encode()).hexdigest() != permited_id:
     messagebox.showerror("Error", "This device is not authorized to run this application.")
     exit()
-elif not permited_id:
+elif permited_id:
     cr.execute(f"INSERT INTO info (device_id) VALUES {device_id}")
     db.commit()
     root.mainloop()
 else:
     root.mainloop()
+
 
