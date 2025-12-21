@@ -1,0 +1,4 @@
+pillow
+tksheet
+texttable
+tkcalendar
