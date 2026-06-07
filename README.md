@@ -30,7 +30,7 @@ This project demonstrates a "full-stack" desktop architecture:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/MaroFarouk6/Python-POS-System.git](https://github.com/MaroFarouk6/Python-POS-System.git)
+    git clone https://github.com/MaroFarouk6/Python-POS-System.git
     cd Python-POS-System
     ```
 
